@@ -74,7 +74,7 @@ Because Fourier transforms function as descriptive tools rather than forecasting
 │   └── plot_fourier_universal_Hann.py   # Advanced FFT implementation with Hann window
 ├── .gitignore                           # Ignores cache and local environment files
 └── README.md                            # Project documentation
-
+```
 
 
 ## 🚀 Setup
@@ -83,10 +83,12 @@ Because Fourier transforms function as descriptive tools rather than forecasting
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YourUsername/tidal-analysis-fft.git](https://github.com/YourUsername/tidal-analysis-fft.git)
+git clone [https://github.com/dawidbuler-bit/Tidal_Dynamics_and_Spectral_Analysis.git](https://github.com/dawidbuler-bit/Tidal_Dynamics_and_Spectral_Analysis.git)
+
 cd tidal-analysis-fft
 
 # Install the required data science packages
 pip install -r requirements/requirements.txt
+```
 
 
