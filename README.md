@@ -83,12 +83,12 @@ Because Fourier transforms function as descriptive tools rather than forecasting
 
 ```bash
 # Clone the repository
-git clone [https://github.com/dawidbuler-bit/Tidal_Dynamics_and_Spectral_Analysis.git](https://github.com/dawidbuler-bit/Tidal_Dynamics_and_Spectral_Analysis.git)
 
-cd tidal-analysis-fft
+git clone https://github.com/dawidbuler-bit/Tidal_Dynamics_and_Spectral_Analysis.git
+
+cd Tidal_Dynamics_and_Spectral_Analysis
 
 # Install the required data science packages
 pip install -r requirements/requirements.txt
-```
 
 
