@@ -1,0 +1,19 @@
+# Środowiska wirtualne (Virtual Environments)
+.venv/
+venv/
+ENV/
+env/
+
+# Cache Jupytera i Pythona
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Dane i pliki CSV
+data/raw/
+data/processed/
+*.csv
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
